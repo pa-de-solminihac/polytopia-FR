@@ -519,7 +519,7 @@
     "wcontroller.not.your.turn": "Désolé, ce n'est pas encore votre tour !",
     "technology.intro": "Cette technologie va permettre ce qui suit :",
     "technology.build": "{0} permet de construire {1}",
-    "technology.movement": "Mouvement",
+    "technology.movement": "Escalade",
     "technology.movement.info": "permet le mouvement dans {0}",
     "technology.defence": "Bonus de défense",
     "technology.defence.info": "donne à votre unité une force supplémentaire lors de la défense en {0}",
